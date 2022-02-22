@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 
-const { v4: uuidv4 } = require('uuid');
+const { v4: uuid } = require('uuid');
 
 const app = express();
 
